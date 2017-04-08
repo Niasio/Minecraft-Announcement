@@ -1,0 +1,17 @@
+name: Annoncement
+main: fr.niasio.annoncement.Main
+version: 2.3
+author: Niasio
+
+commands:
+ annonceon:
+  description: Making an announcement with nick.
+  permission: annonce.on
+ annonceoff:
+  description: Making an announcement without nick.
+  permission: annonce.off
+ annoncereload:
+  description: Reload plugin.
+  permission: annonce.reload
+ annoncetitle:
+  description: Reload plugin.
