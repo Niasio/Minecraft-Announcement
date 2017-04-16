@@ -1,6 +1,6 @@
 name: Annoncement
-main: fr.niasio.annoncement.Main
-version: 2.3
+main: fr.niasio.annoncement.AnnoncementV3
+version: 3.0
 author: Niasio
 
 commands:
@@ -13,5 +13,3 @@ commands:
  annoncereload:
   description: Reload plugin.
   permission: annonce.reload
- annoncetitle:
-  description: Reload plugin.
